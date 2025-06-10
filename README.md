@@ -1,30 +1,65 @@
-# Astro Starter Kit: Portfolio
+# 💼 Parvez Shaik — Developer Portfolio
 
-```sh
-npm create astro@latest -- --template portfolio
-```
+Welcome to the personal portfolio of **Parvez Shaik**, a Full-Stack Software Engineer, DevOps practitioner, and Mobile App Developer (Android/iOS). This website showcases selected projects, skills, and background using a fast, modern, and responsive tech stack powered by **Astro**.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/portfolio)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/portfolio)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/portfolio/devcontainer.json)
+## 🚀 Live Demo
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+🌐 [View the Portfolio](https://your-vercel-link.vercel.app)
 
-![portfolio](https://user-images.githubusercontent.com/357379/210779178-a98f0fb7-6b1a-4068-894c-8e1403e26654.jpg)
+---
 
-## 🧞 Commands
+## 🛠 Tech Stack
 
-All commands are run from the root of the project, from a terminal:
+- **Framework**: [Astro](https://astro.build/)
+- **Languages**: HTML, CSS, JavaScript, Markdown
+- **Styling**: CSS Variables, Custom Components
+- **Icons**: Phosphor Icons (SVG optimized)
+- **Hosting**: [Vercel](https://vercel.com)
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+---
 
-## 👀 Want to learn more?
+## 📁 Features
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+- ⚡ Blazing fast static site with Astro
+- 📱 Fully responsive (Desktop + Mobile)
+- 🧑‍💼 About section with experience & education
+- 🛠 Skills categorized by area (Full-Stack, DevOps, Mobile)
+- 💻 Featured projects with tags and markdown content
+- 🌗 Light/Dark theme with custom tech-inspired colors
+- 🔗 Social/contact section for networking
+- 🧾 Clean and semantic HTML for SEO optimization
+
+---
+
+## 📸 Screenshots
+
+![Homepage Screenshot](./assets/screenshot-home.png)
+![Projects Page Screenshot](./assets/screenshot-projects.png)
+
+---
+
+## 📂 Folder Structure
+
+```bash
+├── public/                # Static assets (images, icons)
+├── src/
+│   ├── components/        # Reusable UI components
+│   ├── layouts/           # Layout wrappers
+│   ├── pages/             # Route-based pages
+│   ├── content/           # Projects written in markdown
+│   └── styles/            # Global CSS and variables
+├── astro.config.mjs       # Astro config
+├── package.json           # NPM dependencies and scripts
+└── README.md              # You’re here!
+
+
+
+# 1. Clone the repo
+git clone https://github.com/Parvez-shaik/portfolio.git
+cd portfolio
+
+# 2. Install dependencies
+npm install
+
+# 3. Start local dev server
+npm run dev
