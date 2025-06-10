@@ -33,8 +33,8 @@ Welcome to the personal portfolio of **Parvez Shaik**, a Full-Stack Software Eng
 
 ## 📸 Screenshots
 
-![Homepage Screenshot](./assets/screenshot-home.png)
-![Projects Page Screenshot](./assets/screenshot-projects.png)
+![Homepage Screenshot](./assetsGitHub/screenshot-home.png)
+![Projects Page Screenshot](./assetsGitHub/screenshot-projects.png)
 
 ---
 
