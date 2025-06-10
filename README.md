@@ -4,7 +4,7 @@ Welcome to the personal portfolio of **Parvez Shaik**, a Full-Stack Software Eng
 
 ## 🚀 Live Demo
 
-🌐 [View the Portfolio](https://your-vercel-link.vercel.app)
+🌐 [View the Portfolio](https://parvez-shaik.vercel.app/)
 
 ---
 
@@ -55,7 +55,7 @@ Welcome to the personal portfolio of **Parvez Shaik**, a Full-Stack Software Eng
 
 
 # 1. Clone the repo
-git clone https://github.com/Parvez-shaik/portfolio.git
+git clone https://github.com/Parvez-shaik/Parvez_Shaik.git
 cd portfolio
 
 # 2. Install dependencies
